@@ -42,4 +42,3 @@ guard 'rspec' do
 end
 
 end
-
